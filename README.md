@@ -4,7 +4,7 @@
 1. Skanuje dostępne urządzenia BLE.
 2. Łączy się z wybranym urządzeniem.
 3. Wysyła do niego wiadomości.
-4. Rozłącza się** po zakończeniu.
+4. Rozłącza się po zakończeniu.
 
 Wszystko zrobione w klasie `BleHandler`, która obsługuje cały proces. 
 
